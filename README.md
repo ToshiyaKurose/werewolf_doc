@@ -4,4 +4,4 @@
 
 このサイトは[暁の人狼](https://akatsuki-jinro.net/)の詳細な仕様や人狼ゲームの基本的なルール、セオリーをまとめたものです。
 
-追記修正提案がある場合は雑談村に書くか[レポジトリ](https://github.com/ToshiyaKurose/werewolf_doc)にプルリクエストを送ってください。
+追記修正提案がある場合は雑談村に書くか[リポジトリ](https://github.com/ToshiyaKurose/werewolf_doc)にプルリクエストを送ってください。
