@@ -5,6 +5,7 @@
     "plugins": [
         "hide-published-with",
         "collapsible-chapters",
+        "expand-active-chapter",
         "hints",
         "back-to-top-button"
     ]
