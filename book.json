@@ -1,0 +1,11 @@
+{
+    "title": "暁の人狼 公式ドキュメント",
+    "language": "ja",
+
+    "plugins": [
+        "hide-published-with",
+        "collapsible-chapters",
+        "hints",
+        "back-to-top-button"
+    ]
+}
